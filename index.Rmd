@@ -1,0 +1,27 @@
+---
+title: "Joshua Rodriguez"
+image: "frank.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/staticalcord7"
+  - label: Email
+    url: "staticalcord7.jr@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Joshua Rodriguez studies genomic sciences at the biotecnology institute. 
+He doesn't really know what he would like to do with his life but he loves biology and programing.
+He does not know how to change the image.
+
+## Education
+
+**UNAM Biotechnology Institute** | Cuernavaca, Mor
+
+Bachelor degree in genomic sciences | September 2009 - Present
+
+## Experience
+
+Not really
