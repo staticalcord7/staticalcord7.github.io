@@ -12,8 +12,8 @@ output:
  
 ## Bio
 
-Joshua Rodriguez studies genomic sciences at the biotecnology institute. 
-He doesn't really know what he would like to do with his life but he loves biology and programing.
+Joshua Rodriguez studies genomic sciences at the biotechnology institute. 
+He doesn't really know what he would like to do with his life but he loves biology and programming.
 He does not know how to change the image.
 
 ## Education
